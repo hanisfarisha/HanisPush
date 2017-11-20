@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "558399520161",
+    "firebase_url": "https://pushhanis.firebaseio.com",
+    "project_id": "pushhanis",
+    "storage_bucket": "pushhanis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558399520161:android:688c09cc7d860ea0",
+        "android_client_info": {
+          "package_name": "com.example.hanis.hanis_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558399520161-pjhktofhfjebfqp587ru6jtj8uv5tkh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi7P9wFbj3ACkTD6MDy8ISBQoacAa7AyQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
